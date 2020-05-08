@@ -9,15 +9,6 @@
       "should_update": true,
       "should_read": true
     },
-    {	
-      "url": "https://github.com/Garoto-Batata/ZDDPics",
-      "repo_name": "ZDDPics",
-      "repo_path": "./pics",
-      "has_core": false,
-      "data_path": "",
-      "should_update": true,
-      "should_read": true
-    },
     {
       "url": "https://github.com/ProjectIgnis/DeltaHopeHarbinger",
       "repo_name": "Project Ignis updates",
