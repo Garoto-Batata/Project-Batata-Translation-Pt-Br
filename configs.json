@@ -12,8 +12,8 @@
 			"should_read": true
 		},
 		{
-                        "url": "https://github.com/Garoto-Batata/TraduPT",
-                        "repo_name": "TraduPT",
+                        "url": "https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br",
+                        "repo_name": "Project Batata Translation Pt Br",
                         "repo_path": "./config/languages",
                         "has_core": false,
                         "data_path": "",
