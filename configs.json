@@ -12,15 +12,6 @@
 			"should_read": true
 		},
 		{
-                        "url": "https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br",
-                        "repo_name": "Project Batata Tradução Pt-Br",
-                        "repo_path": "./config/languages",
-                        "has_core": false,
-                        "data_path": "",
-                        "should_update": true,
-                        "should_read": true
-                },
-		{
 			"url": "https://github.com/ProjectIgnis/LFLists",
 			"repo_name": "Forbidden & Limited Card Lists",
 			"repo_path": "./repositories/lflists",
@@ -34,6 +25,15 @@
 			"repo_path": "./puzzles/Canon collection",
 			"should_update": true,
 			"should_read": true
+		},
+		{
+                        "url": "https://github.com/Garoto-Batata/Project-Batata-Translation-Pt-Br",
+                        "repo_name": "Project Batata Translation Pt-Br",
+                        "repo_path": "./config/languages",
+                        "has_core": false,
+                        "data_path": "",
+                        "should_update": true,
+                        "should_read": true
 		}
 	],
 	"urls": [
