@@ -19,7 +19,7 @@
                         "data_path": "",
                         "should_update": true,
                         "should_read": true
-		},
+                },
 		{
 			"url": "https://github.com/ProjectIgnis/LFLists",
 			"repo_name": "Forbidden & Limited Card Lists",
